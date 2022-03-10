@@ -3,7 +3,7 @@ package com.bitcamptest;
 public class Hello33 {
 
   public static void main(String[] args) {
-    System.out.println("oseung12!");
+    System.out.println("오호라!");
 
   }
 }
