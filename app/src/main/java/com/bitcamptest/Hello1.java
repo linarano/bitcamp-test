@@ -6,6 +6,7 @@ public class Hello1 {
     System.out.println("장창!"); 
     System.out.println("최리나!"); 
     System.out.println("최리나!2");
+    System.out.println("최리나!3");
 
   }
 
