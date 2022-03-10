@@ -7,4 +7,10 @@ public class Hello1 {
 
   }
 
+  public static void kiKi() {
+    for (int i = 0; i < 10; i++) {
+      System.out.println(i);
+    }
+  }
+
 }
