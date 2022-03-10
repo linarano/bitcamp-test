@@ -12,12 +12,7 @@ public class Hello1 {
     System.out.println("최리나!2");
 
     m99991();
-<<<<<<< HEAD
-
-
-=======
     m1();
->>>>>>> branch 'main' of https://github.com/linarano/bitcamp-test.git
   }
 
   static void m99991() {
