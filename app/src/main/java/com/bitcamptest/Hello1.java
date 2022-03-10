@@ -11,10 +11,17 @@ public class Hello1 {
     System.out.println("최리나!"); 
     System.out.println("최리나!2");
 
-    m9999();
+    m99991();
 
 
   }
+  static void m99991() {
+    System.out.println("오호라");
+    System.out.println("여러분들 다 장난인거 아시죠~??");
+
+  }
+
+
   static void m9999() {
     System.out.println("오호라");
   }
@@ -22,6 +29,7 @@ public class Hello1 {
     for (int i = 0; i < 10; i++) {
       System.out.println(i);
     }
+
   }
 
 
