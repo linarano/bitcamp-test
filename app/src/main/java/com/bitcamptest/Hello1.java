@@ -10,12 +10,11 @@ public class Hello1 {
     m99991();
     m1();
   }
+
   static void m99991() {
     System.out.println("오호라");
     System.out.println("여러분들 다 장난인거 아시죠~??");
-
   }
-
 
   static void m9999() {
     System.out.println("오호라");
@@ -27,10 +26,8 @@ public class Hello1 {
 
   }
 
-
   static void m1() {
     System.out.println("오호라!!");
   }
-
 
 }
