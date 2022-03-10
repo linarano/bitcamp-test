@@ -7,6 +7,7 @@ public class Hello1 {
     System.out.println("최리나!"); 
     System.out.println("최리나!2");
     System.out.println("최리나!3");
+    System.out.println("최리나!4");
 
     m9999();
 
