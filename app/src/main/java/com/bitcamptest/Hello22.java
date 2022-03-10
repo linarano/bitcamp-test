@@ -1,9 +1,7 @@
 package com.bitcamptest;
 
-public class Hello33 {
-
+public class Hello22 {
   public static void main(String[] args) {
-    System.out.println("오호라!");
-
+    System.out.println("최리나!");
   }
 }
